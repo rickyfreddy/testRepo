@@ -8,6 +8,7 @@ namespace testWeb
     public class Class1
     {
 
-        string test1 = "3";
+        int test1 = 4;
+
     }
 }
